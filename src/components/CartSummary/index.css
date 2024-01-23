@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.price-head {
+  color: #171f46;
+  font-size: 22px;
+  align-self: flex-start;
+  margin-bottom: 0px;
+}
+
+.span-ele {
+  color: #616e7c;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.item-para {
+  color: #616e7c;
+  align-self: flex-start;
+  font-size: 15px;
+}
+
+.check-button {
+  width: 100%;
+  background-color: #0b69ff;
+  padding: 20px;
+  border: 0px;
+  cursor: pointer;
+  color: #ffffff;
+}
